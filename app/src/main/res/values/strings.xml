@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Al Quran</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="salam">Assalamu\'alaikum</string>
+    <string name="name">Sitiaisyah</string>
+    <string name="schedule">Jadwal Sholat</string>
+    <string name="subuh">Subuh</string>
+    <string name="time">05:30 AM</string>
+    <string name="zuhur">Zuhur</string>
+    <string name="ashar">Ashar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isya</string>
+    <string name="masjid_terdekat">Masjid Terdekat</string>
+    <string name="list_surah">Daftar Surah</string>
+    <string name="ket">Keterangan</string>
+    <string name="google_maps_key">AIzaSyCJL_HLJbt1DYterbRdT-9hb-bDS-TpljI</string>
+</resources>
